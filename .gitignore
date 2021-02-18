@@ -1,4 +1,3 @@
 *.file*.orc.crc
 *.orc
-/target
 /.idea
